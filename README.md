@@ -9,7 +9,7 @@ Mapping cold and warm neutral hydrogen in galaxies with neural networks\
 
 
 **3. Data analyses and Python notebooks**:\
-https://github.com/nv-hiep/pii \
+https://github.com/nv-hiep/PIML \
 
 
 **4. Preliminary results for HISA detectors**:\
