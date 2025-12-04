@@ -26,4 +26,6 @@ Figure 3: Preliminary results from a Physics-informed inference framework for in
 \
 **Authors**:\
 Hiep Nguyen $^{1★}$\
-Eric G. M. Muller $^{1}$\
+Eric G. M. Muller $^{1}$
+
+$^{1}$ Research School of Astronomy and Astrophysics, The Australian National University, Canberra, ACT 2611, Australia
